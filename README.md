@@ -24,10 +24,10 @@ Here are some ideas to get you started:
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Data%20%20Scientist;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Data%20%20Analyst;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p> 
 
-- 🏢 I'm a Data Scientist and Junior Machine Learning Engineer.
+- 🏢 I'm a Data Analyst and Junior Machine Learning Engineer.
 - 👨‍💻 As a Engineer , I'm constantly learning and exploring new technologies to improve my skills.
 - 🔭 I’m currently working on implement more projects during courses and internships to gain more experience.
 - 📫 How to reach me: Abdelrahmanelashaal25@gmail.com .
